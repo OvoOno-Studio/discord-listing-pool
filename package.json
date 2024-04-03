@@ -5,7 +5,7 @@
   "description": "",
   "build": "tsc",
   "scripts": {
-    "start": "ts-node bot.ts",
+    "start": "npm start bot.ts",
     "tsc": "tsc --noEmit"
   },
   "keywords": [],
