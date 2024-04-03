@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "bot": "ts-node bot.ts",
+    "start": "ts-node bot.ts",
     "tsc": "tsc --noEmit"
   },
   "keywords": [],
