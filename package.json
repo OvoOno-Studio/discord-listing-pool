@@ -2,11 +2,9 @@
   "name": "discord-raydium-bot",
   "author": "bez369",
   "version": "1.0.0",
-  "description": "",
-  "build": "tsc",
+  "description": "", 
   "scripts": {
-    "start": "npm start bot.ts",
-    "tsc": "tsc --noEmit"
+    "start": "node bot.ts" 
   },
   "keywords": [],
   "license": "ISC",
