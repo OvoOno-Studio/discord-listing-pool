@@ -3,6 +3,7 @@
   "author": "bez369",
   "version": "1.0.0",
   "description": "",
+  "build": "tsc",
   "scripts": {
     "start": "ts-node bot.ts",
     "tsc": "tsc --noEmit"
